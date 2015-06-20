@@ -1,1 +1,14 @@
+# Eclipse
 /target/
+.classpath
+.project
+.settings
+
+# IntelliJ Idea
+*.ipr
+*.iws
+*.iml
+*.iml
+.idea/
+
+# Netbeans
